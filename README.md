@@ -1,4 +1,4 @@
-# phase-field-crack-propagatio
+# phase-field-crack-propagation
 phase-field crack propagation in L-shaped concrete panel using FEniCS
 https://www.sciencedirect.com/science/article/pii/S0022509616308341
 
